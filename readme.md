@@ -1,4 +1,4 @@
-liveurl: https://apurva-ambekar-discord.netlify.app
+liveurl:https://discord-apurva-a-n-ambekar.netlify.app
 <br>
 <br>
 
